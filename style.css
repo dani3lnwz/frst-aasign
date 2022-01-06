@@ -1,0 +1,132 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+}
+.flexi{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 60px;
+    padding-left: 10px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red,black);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 10px;
+    color: white;
+}
+.orange{
+    color: orange;
+}
+.border{
+    border-left: 5px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top:0;
+}
+h4{
+    font-size: 20px;
+}
+.frst{
+    width: 25%;
+    padding-left: 20px;
+    margin-left: 10%;
+    margin-right: 2.5%;
+    border-radius: 10px;
+}
+.frst img{
+    width: 40%;
+}
+#first{
+    background-color: rgba(255, 192, 203, 0.329);
+}
+.scnd{
+    width: 25%;
+    padding-left: 20px;
+    margin-right: 2.5%;
+    border-radius: 10px;
+}
+.scnd img{
+    width: 40%;
+}
+#second{
+    background-color: rgba(0, 255, 255, 0.158);
+}
+.thrd{
+    width: 25%;
+    padding-left: 20px;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+.thrd img{
+    width: 40%;
+}
+#third{
+    background-color: rgba(255, 68, 0, 0.164);
+}
+#ami{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: left;
+}
+#tmi{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.aaa{
+    width: 50%;
+    padding-left: 5%;
+}
+.aaa img{
+    width: 70%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.footer{
+    height: 150px;
+    background: #000000;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin:0px;
+}
+.footer-content{
+    padding: 10px;
+}
+.footer-content h2{
+    color: #ffffff;
+    font-size: 30px;
+}
+.footer-content h4{
+    font-weight: 200;
+    font-size: 14px;
+}
+#year{
+    color: #509e40;
+}
+#text-wrap{
+    font-family: "Dancing Script", cursive;
+}
